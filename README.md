@@ -1,10 +1,7 @@
 # Data analysis
 - Document here the project: bbquote
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: It will call the API and get a quote from breaking bad
 
-Please document the project the better you can.
 
 # Startup the project
 
