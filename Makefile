@@ -1,4 +1,4 @@
-your-email@domain.com=omar.asghar@yahoo.com
+HEROKU_EMAIL_ADDRESS=omar.asghar@yahoo.com
 
 # ----------------------------------
 #          INSTALL & TEST
